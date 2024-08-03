@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Mleko",
+        "price": 3.99,
+        "amount": 2,
+        "isBought": true
+    },
+    {
+        "name": "Kawa",
+        "price": 15.99,
+        "amount": 1,
+        "isBought": false
+    },
+    {
+        "name": "Dżem truskawkowy",
+        "price": 4.99,
+        "amount": 1,
+        "isBought": false
+    },
+    {
+        "name": "Ryż",
+        "price": 4.99,
+        "amount": 2,
+        "isBought": false
+    },
+    {
+        "name": "Olej",
+        "price": 8.99,
+        "amount": 1,
+        "isBought": false
+    }
+]

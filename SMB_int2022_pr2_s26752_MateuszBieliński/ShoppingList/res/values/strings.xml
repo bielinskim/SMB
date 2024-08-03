@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ShoppingList</string>
+    <string name="product_name">Nazwa produktu</string>
+    <string name="product_amount">Ilość</string>
+    <string name="product_price">Cena</string>
+    <string name="product_save">Zapisz</string>
+    <string name="product_add">Dodaj</string>
+    <string name="is_bought">kupiony</string>
+</resources>

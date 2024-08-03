@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Widget</string>
+    <string name="appwidget_text">Otwórz stronę</string>
+    <string name="add_widget">Add widget</string>
+    <string name="app_widget_description">This is an app widget description</string>
+    <string name="first_image">Pierwszy</string>
+    <string name="second_image">Drugi</string>
+    <string name="music_title">-</string>
+    <string name="play_button">Start</string>
+    <string name="pause_button">Pauza</string>
+    <string name="stop_button">Koniec</string>
+    <string name="prev_button">Poprzedni</string>
+    <string name="next_button">Następny</string>
+</resources>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>75387320456-r4uhbem921cjpuu1cs002im9qcvf09ch.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.75387320456-r4uhbem921cjpuu1cs002im9qcvf09ch</string>
+	<key>API_KEY</key>
+	<string>AIzaSyATzXQxPKLwfe1KjMu02h3GPy_FFKrnha4</string>
+	<key>GCM_SENDER_ID</key>
+	<string>75387320456</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>MB.ShoppingList</string>
+	<key>PROJECT_ID</key>
+	<string>shoppinglist-ae30b</string>
+	<key>STORAGE_BUCKET</key>
+	<string>shoppinglist-ae30b.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:75387320456:ios:fac76d8a3f3af6e71f073d</string>
+	<key>DATABASE_URL</key>
+	<string>https://shoppinglist-ae30b-default-rtdb.europe-west1.firebasedatabase.app</string>
+</dict>
+</plist>
